@@ -1,0 +1,8 @@
+C:\knoemaCode\NUnitTestProject\NUnitParam\NUnitParam\NUnitParam\bin\Debug\NUnitParam.dll
+C:\knoemaCode\NUnitTestProject\NUnitParam\NUnitParam\NUnitParam\bin\Debug\NUnitParam.pdb
+C:\knoemaCode\NUnitTestProject\NUnitParam\NUnitParam\NUnitParam\bin\Debug\nunit.framework.dll
+C:\knoemaCode\NUnitTestProject\NUnitParam\NUnitParam\NUnitParam\bin\Debug\nunit.framework.pdb
+C:\knoemaCode\NUnitTestProject\NUnitParam\NUnitParam\NUnitParam\bin\Debug\nunit.framework.xml
+C:\knoemaCode\NUnitTestProject\NUnitParam\NUnitParam\NUnitParam\obj\Debug\NUnitParam.csprojResolveAssemblyReference.cache
+C:\knoemaCode\NUnitTestProject\NUnitParam\NUnitParam\NUnitParam\obj\Debug\NUnitParam.dll
+C:\knoemaCode\NUnitTestProject\NUnitParam\NUnitParam\NUnitParam\obj\Debug\NUnitParam.pdb
